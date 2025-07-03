@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Paulo Ruben
 
-🎓 Estudante de Técnico em Informática apaixonado por desenvolvimento front-end, explorando o mundo da programação web com foco em **HTML, CSS e JavaScript**. Também dou meus primeiros passos no back-end com **PHP** e **Supabase**.
+🎓 Estudante de Técnico em Informática apaixonado por desenvolvimento front-end, explorando o mundo da programação web com foco em **HTML, CSS e JavaScript**. Também estou aprendendo back-end com **PHP, MySQL** e **Supabase**.
 
 ---
 
@@ -13,6 +13,7 @@
 
 ### 🧠 Back-end e Banco de Dados
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=000)
 
 ### ⚙️ Outros
@@ -29,6 +30,7 @@
 | CSS3                   | █████████░░░ 80% |
 | JavaScript             | ████████░░░░ 70% |
 | Supabase               | ██████░░░░░░ 50% |
+| MySQL                  | █████░░░░░░░ 45% |
 | PHP                    | █████░░░░░░░ 40% |
 
 ---
@@ -37,8 +39,16 @@
 
 Atualmente focado em:
 - JavaScript modular e projetos interativos
-- Integração com Supabase
+- Integração com Supabase e MySQL
 - Conceitos básicos de back-end com PHP
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![Paulo Ruben GitHub Stats](https://github-readme-stats.vercel.app/api?username=pauloruben&show_icons=true&theme=github_dark&locale=pt-br)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloruben&layout=compact&theme=github_dark)
 
 ---
 
