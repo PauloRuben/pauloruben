@@ -54,8 +54,7 @@ Atualmente focado em:
 ## 📫 Como me encontrar
 
 - GitHub: [github.com/pauloruben](https://github.com/pauloruben)
-- (adicione aqui outras redes ou portfólio, se tiver)
-
+- Portifolio: [https://pauloruben.netlify.app/](https://pauloruben.netlify.app/)
 ---
 
 > “Programar é transformar ideias em realidade usando lógica, criatividade e persistência.” 🚀
