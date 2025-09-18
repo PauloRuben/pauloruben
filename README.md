@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Paulo Ruben
 
-🎓 Estudante de Técnico em Informática apaixonado por desenvolvimento front-end, explorando o mundo da programação web com foco em **HTML, CSS e JavaScript**. Também estou aprendendo back-end com **🐘PHP, MySQL, ☕JAVA** e **Supabase** .
+🎓 Estudante de Técnico em Informática apaixonado por desenvolvimento front-end, explorando o mundo da programação web com foco em **HTML, CSS e JavaScript**. Também estou aprendendo back-end com **🐘PHP, 🐬MySQL, ☕JAVA** e **Supabase** .
 
 ---
 
