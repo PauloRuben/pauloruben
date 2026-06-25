@@ -109,11 +109,11 @@ PHP          █████       45%
 
 ## 📫 Contato
 
-📧 Seu Email
+📧 Seu Email: Paulo Ruben Meira Prado
 
-🌐 Seu Portfólio
+🌐 Seu Portfólio:https://pauloruben.netlify.app/
 
-💼 LinkedIn
+💼 LinkedIn:https://www.linkedin.com/in/paulo-ruben-dev/
 
 🐙 GitHub: https://github.com/PauloRuben
 
