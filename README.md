@@ -77,11 +77,11 @@ PHP          █████       45%
 
 ## 📈 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight\&locale=pt-br)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloRuben\&show_icons=true\&theme=tokyonight\&locale=pt-br)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRuben\&layout=compact\&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO\&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PauloRuben\&theme=tokyonight)
 
 ---
 
@@ -115,7 +115,7 @@ PHP          █████       45%
 
 💼 LinkedIn
 
-🐙 GitHub: https://github.com/SEU_USUARIO
+🐙 GitHub: https://github.com/PauloRuben
 
 ---
 
